@@ -42,4 +42,4 @@ My test project.
 [整数计算器](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/test/Calculator.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/test/CalculatorTest.java)|
 [大数阶乘](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/test/Factorial.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/test/Factorial.java)|
 [大文件中前N大的数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/test/FindTopKNumbers.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/test/FindTopKNumbers.java)|
-[0-1背包问题]( https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/dynamicProgram/PackageProblem.java )|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/dynamicProgram/PackageProblem.java)|
+[0-1背包问题]( https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/dynamicProgram/PackageProblem.java )|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/dynamicProgram/PackageProblemTest.java)|
