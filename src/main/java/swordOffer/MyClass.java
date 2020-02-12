@@ -26,4 +26,15 @@ public class MyClass {
             this.val = val;
         }
     }
+
+    // 随机链表节点
+    class RandomListNode {
+        int label;
+        RandomListNode next = null;
+        RandomListNode random = null;
+
+        RandomListNode(int label) {
+            this.label = label;
+        }
+    }
 }

@@ -1,9 +1,6 @@
 package swordOffer;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 /**
  * @ClassName MyUtils
@@ -53,9 +50,9 @@ public class MyUtils extends MyClass{
      * @param state 遍历状态 ：PRE 前序，IN 中序，POST 后序，LEVEL 层序
      * @return 遍历结果集
      */
-    public List traversal(TreeNode treeNode, String state){
+    public List<Integer> traversal(TreeNode treeNode, String state){
         // 遍历结果list
-        List list = new ArrayList();
+        List<Integer> list = new ArrayList<>();
         switch (state){
             case "PRE":
                 preTraversal(treeNode, list);break;
@@ -194,4 +191,30 @@ public class MyUtils extends MyClass{
             array[left + index] = temp[index];
         }
     }
+
+    /******************* 链表 ********************/
+    // 单向链表
+    public int[] linkListToArray(ListNode head){
+        List<Integer> list = new ArrayList();
+        int[] res;
+        while (head != null){
+            list.add(head.val);
+            head = head.next;
+        }
+        res = list.stream().mapToInt(Integer::valueOf).toArray();
+        return res;
+    }
+
+    // 双向链表
+    public int[] linkListToArray(TreeNode treeNode){
+        List<Integer> list = new ArrayList();
+        int[] res;
+        while (treeNode != null){
+            list.add(treeNode.val);
+            treeNode = treeNode.right;
+        }
+        res = list.stream().mapToInt(Integer::valueOf).toArray();
+        return res;
+    }
+
 }
