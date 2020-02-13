@@ -217,4 +217,20 @@ public class MyUtils extends MyClass{
         return res;
     }
 
+    /************************斐波那契数列************************/
+    /**
+     * @param n 项数
+     * @param first 第一项
+     * @param second 第二项
+     * @return 斐波那契数列
+     */
+    public int[] fibonacci(int n, int first, int second){
+        int[] f = new int[n];
+        f[0] = first;
+        f[1] = second;
+        for(int i = 2; i < n; i++){
+            f[i] = f[i-1] + f[i-2];
+        }
+        return f;
+    }
 }

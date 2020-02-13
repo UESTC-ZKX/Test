@@ -9,8 +9,8 @@ public class SwordOffer_09Test {
 
     private SwordOffer_09 swordOffer_09;
     // 测试用例
-    private int n = 0;
-    private int res = 0;
+    private int n = 10;
+    private int res = 55;
 
     @Before
     public void init(){

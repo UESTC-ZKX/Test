@@ -17,10 +17,16 @@ public class SwordOffer_15 extends MyClass {
             return null;
         }
         Stack<ListNode> stack = new Stack();
+        int length = 0;
         while (head != null){
             stack.push(head);
             head = head.next;
+            length++;
         }
+        if(k > length){
+            return null;
+        }
+
         while (k-- > 1){
             if (stack.empty()){
                 return null;
