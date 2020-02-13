@@ -34,6 +34,14 @@ My test project.
 |第二十八题|[字符串的排列](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_28.java)|[测试28](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_28Test.java)|
 |第二十九题|[数组中出现次数超过一半的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_29.java)|[测试29](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_29Test.java)|
 
+|第三十题题|[最小的k个数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_30.java)|[测试30](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_30Test.java)|
+
+|第三十一题|[连续子数组的最大和](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_31.java)|[测试31](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_31Test.java)|
+
+|第三十二题|[从1到n整数中1出现的次数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_32.java)|[测试32](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_32Test.java)|
+
+|第三十三题|[把数组排成最小的数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_33.java)|[测试33](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_33Test.java)|
+
 # 普通练习
 
 ### 目录
