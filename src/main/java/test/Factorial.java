@@ -25,7 +25,9 @@ public class Factorial {
                         temp = i;
                         i--;
                     }
-                    else break;
+                    else {
+                        break;
+                    }
                 }
                 privateCache = privateCache.multiply(BigInteger.valueOf(temp));
             }

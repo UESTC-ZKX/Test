@@ -39,6 +39,8 @@ My test project.
 |第三十三题|[把数组排成最小的数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_33.java)|[测试33](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_33Test.java)|
 |第三十四题|[丑数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_34.java)|[测试34](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_34Test.java)|
 |第三十五题|[第一个只出现一次的字符](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_35.java)|[测试35](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_35Test.java)|
+|第三十六题|[数组中的逆序对](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_36.java)|[测试36](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_36Test.java)|
+|第三十七题|[两个链表的第一个公共结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_37.java)|[测试37](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_37Test.java)|
 # 普通练习
 
 ### 目录
