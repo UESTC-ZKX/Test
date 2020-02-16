@@ -41,6 +41,10 @@ My test project.
 |第三十五题|[第一个只出现一次的字符](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_35.java)|[测试35](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_35Test.java)|
 |第三十六题|[数组中的逆序对](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_36.java)|[测试36](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_36Test.java)|
 |第三十七题|[两个链表的第一个公共结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_37.java)|[测试37](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_37Test.java)|
+|第三十八题|[数字在排序数组中出现的次数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_38.java)|[测试38](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_38Test.java)|
+|第三十九题|[二叉树的深度](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_39.java)|[测试39](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_39Test.java)|
+|第四十题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_40.java)|[测试40](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_40Test.java)|
+
 # 普通练习
 
 ### 目录
