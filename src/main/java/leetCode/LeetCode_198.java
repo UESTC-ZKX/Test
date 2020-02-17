@@ -29,7 +29,7 @@ package leetCode;
  * @Author UESTC-ZKX
  * @Date 2020/2/17
  **/
-public class LeetCoed_198 {
+public class LeetCode_198 {
 
     public int rob(int[] nums) {
         if(nums.length == 0){
