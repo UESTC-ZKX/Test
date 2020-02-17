@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
  * @Author UESTC-ZKX
  * @Date 2020/1/22
  **/
-public class SwordOffer_06 extends MyClass{
+public class SwordOffer_06 extends MyClass {
     // 工具类
     MyUtils myUtils = new MyUtils();
     // 分割左右子树法

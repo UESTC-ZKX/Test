@@ -6,7 +6,7 @@ My test project.
 
 |题号|题目及题解|测试用例|
 |:-----|:----|:----|
-|自定义结构类|[MyClass](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/MyClass.java)
+|自定义结构类|[swordOffer.MyClass](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/MyClass.java)
 |自定义工具类|[MyUtils](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/MyUtils.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/MyUtilsTest.java)
 |第三题|[二维数组中查找目标值](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_03.java)|[测试3](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_03Test.java)|
 |第四题|[替换字符串中的空格](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_04.java)|[测试4](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_04Test.java)|
@@ -44,6 +44,16 @@ My test project.
 |第三十八题|[数字在排序数组中出现的次数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_38.java)|[测试38](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_38Test.java)|
 |第三十九题|[二叉树的深度](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_39.java)|[测试39](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_39Test.java)|
 |第四十题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_40.java)|[测试40](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_40Test.java)|
+|第四十一题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_41.java)|[测试41](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_41Test.java)|
+|第四十二题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_42.java)|[测试42](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_42Test.java)|
+
+# LeetCode 练习
+|题号|题目及题解|测试用例|
+|:-----|:----|:----|
+|198|[打家劫舍1](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/leetCoder/LeetCode_198.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/leetCode/LeetCode_198Test.java)|
+|213|[打家劫舍2](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/leetCoder/LeetCode_213.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/leetCode/LeetCode_213Test.java)|
+|337|[打家劫舍3](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/leetCoder/LeetCode_337.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/leetCode/LeetCode_337Test.java)|
+
 
 # 普通练习
 

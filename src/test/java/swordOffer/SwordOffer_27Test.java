@@ -5,7 +5,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class SwordOffer_27Test extends MyClass{
+public class SwordOffer_27Test extends MyClass {
 
     SwordOffer_27 swordOffer_27 = new SwordOffer_27();
     SwordOffer_06 swordOffer_06 = new SwordOffer_06();

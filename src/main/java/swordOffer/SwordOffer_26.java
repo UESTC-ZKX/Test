@@ -15,7 +15,7 @@ import java.util.Map;
  * @Author UESTC-ZKX
  * @Date 2020/2/11
  **/
-public class SwordOffer_26 extends MyClass{
+public class SwordOffer_26 extends MyClass {
     MyUtils myUtils = new MyUtils();
     public RandomListNode Clone(RandomListNode pHead) {
         if (myUtils.isNull(pHead)){

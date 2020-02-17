@@ -9,7 +9,7 @@ import java.util.*;
  * @Author UESTC-ZKX
  * @Date 2020/1/21
  **/
-public class MyUtils extends MyClass{
+public class MyUtils extends MyClass {
 
     final static int MAX = 1024 * 1024;
 

@@ -1,4 +1,4 @@
-package swordOffer;
+package leetCode;
 
 /**
  * @ClassName swordOffer.MyClass

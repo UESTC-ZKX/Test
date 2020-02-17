@@ -1,7 +1,6 @@
 package swordOffer;
 
 import java.util.ArrayList;
-import java.util.List;
 
 /**
  * @ClassName SwordOffer_25

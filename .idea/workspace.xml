@@ -5,15 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe831fc0-bed3-4520-bba9-7bb1316efca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_38Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_39Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_40Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/LeetCode_213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/LeetCode_337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/LeetCoed_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/Swordoffer_42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/LeetCode_213Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/LeetCode_337Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/LeetCoed_198Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_41Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/Swordoffer_42Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Factorial$Mutiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Factorial$Mutiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/Test_15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/MyUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/MyUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_23Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_23Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_25Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_25Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_27Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_27Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/swordOffer/SwordOffer_05Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/swordOffer/SwordOffer_05Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/swordOffer/SwordOffer_06Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/swordOffer/SwordOffer_06Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,99 +96,109 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="leetCode" />
       <recent name="swordOffer" />
       <recent name="dynamicProgram" />
       <recent name="test" />
       <recent name="DynamicProgram" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="swordOffer" />
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetCode" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SwordOffer_40Test">
-    <configuration name="SwordOffer_36Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LeetCode_337Test">
+    <configuration name="LeetCode_213Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordOffer.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_36Test" />
+      <option name="PACKAGE_NAME" value="leetCode" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_213Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwordOffer_37Test.findFirstCommonNode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode_337Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordOffer.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_37Test" />
-      <option name="METHOD_NAME" value="findFirstCommonNode" />
+      <option name="PACKAGE_NAME" value="leetCode" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_337Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_337Test.rob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="leetCode" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_337Test" />
+      <option name="METHOD_NAME" value="rob" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwordOffer_38Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCoed_198Test.rob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordOffer.*" />
+          <option name="PATTERN" value="leetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_38Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="leetCode" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCoed_198Test" />
+      <option name="METHOD_NAME" value="rob" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwordOffer_39Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Swordoffer_42Test.LeftRotateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="swordOffer.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_39Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwordOffer_40Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swordOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_40Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.Swordoffer_42Test" />
+      <option name="METHOD_NAME" value="LeftRotateString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SwordOffer_40Test" />
-        <item itemvalue="JUnit.SwordOffer_39Test" />
-        <item itemvalue="JUnit.SwordOffer_38Test" />
-        <item itemvalue="JUnit.SwordOffer_37Test.findFirstCommonNode" />
-        <item itemvalue="JUnit.SwordOffer_36Test" />
+        <item itemvalue="JUnit.LeetCode_337Test" />
+        <item itemvalue="JUnit.LeetCode_337Test.rob" />
+        <item itemvalue="JUnit.LeetCode_213Test" />
+        <item itemvalue="JUnit.LeetCoed_198Test.rob" />
+        <item itemvalue="JUnit.Swordoffer_42Test.LeftRotateString" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +244,8 @@
       <workItem from="1581764113860" duration="2948000" />
       <workItem from="1581767272993" duration="1566000" />
       <workItem from="1581769367455" duration="904000" />
-      <workItem from="1581819888132" duration="12155000" />
+      <workItem from="1581819888132" duration="12389000" />
+      <workItem from="1581912584125" duration="22182000" />
     </task>
     <servers />
   </component>
@@ -224,53 +257,57 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1581764227951" />
-    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581821649733">
+    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581937139249">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872@0.0.1368.872" timestamp="1581821649733" />
-    <state x="468" y="294" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581763678962">
+    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872@0.0.1368.872" timestamp="1581937139249" />
+    <state x="468" y="294" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581935927408">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="468" y="294" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872@0.0.1368.872" timestamp="1581763678962" />
-    <state width="1326" height="422" key="GridCell.Tab.0.bottom" timestamp="1581847730982">
+    <state x="468" y="294" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872@0.0.1368.872" timestamp="1581935927408" />
+    <state width="1326" height="214" key="GridCell.Tab.0.bottom" timestamp="1581938694370">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="422" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581847730982" />
-    <state width="1326" height="422" key="GridCell.Tab.0.center" timestamp="1581847730982">
+    <state width="1326" height="214" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581938694370" />
+    <state width="1326" height="214" key="GridCell.Tab.0.center" timestamp="1581938694370">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="422" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581847730982" />
-    <state width="1326" height="422" key="GridCell.Tab.0.left" timestamp="1581847730982">
+    <state width="1326" height="214" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581938694370" />
+    <state width="1326" height="214" key="GridCell.Tab.0.left" timestamp="1581938694370">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="422" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581847730982" />
-    <state width="1326" height="422" key="GridCell.Tab.0.right" timestamp="1581847730982">
+    <state width="1326" height="214" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581938694370" />
+    <state width="1326" height="214" key="GridCell.Tab.0.right" timestamp="1581938694370">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="422" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581847730982" />
-    <state width="1326" height="198" key="GridCell.Tab.1.bottom" timestamp="1581847730867">
+    <state width="1326" height="214" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581938694370" />
+    <state width="1326" height="214" key="GridCell.Tab.1.bottom" timestamp="1581938694266">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="198" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581847730867" />
-    <state width="1326" height="198" key="GridCell.Tab.1.center" timestamp="1581847730867">
+    <state width="1326" height="214" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581938694266" />
+    <state width="1326" height="214" key="GridCell.Tab.1.center" timestamp="1581938694266">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="198" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1581847730867" />
-    <state width="1326" height="198" key="GridCell.Tab.1.left" timestamp="1581847730867">
+    <state width="1326" height="214" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1581938694266" />
+    <state width="1326" height="214" key="GridCell.Tab.1.left" timestamp="1581938694266">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="198" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1581847730867" />
-    <state width="1326" height="198" key="GridCell.Tab.1.right" timestamp="1581847730867">
+    <state width="1326" height="214" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1581938694266" />
+    <state width="1326" height="214" key="GridCell.Tab.1.right" timestamp="1581938694266">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="198" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1581847730867" />
+    <state width="1326" height="214" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1581938694266" />
     <state x="216" y="22" key="SettingsEditor" timestamp="1581767889676">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="216" y="22" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581767889676" />
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581846288225">
+    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581936513595">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1581846288225" />
+    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1581936513595" />
+    <state x="348" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1581936225697">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="348" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1581936225697" />
   </component>
 </project>
