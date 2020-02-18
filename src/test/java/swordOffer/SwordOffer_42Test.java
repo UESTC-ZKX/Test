@@ -4,9 +4,9 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class Swordoffer_42Test {
+public class SwordOffer_42Test {
 
-    Swordoffer_42 swordOffer_42 = new Swordoffer_42();
+    SwordOffer_42 swordOffer_42 = new SwordOffer_42();
     // 测试用例
     private String str1 = "I am a student.";
     private String res1 = "student. a am I";

@@ -46,6 +46,10 @@ My test project.
 |第四十题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_40.java)|[测试40](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_40Test.java)|
 |第四十一题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_41.java)|[测试41](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_41Test.java)|
 |第四十二题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_42.java)|[测试42](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_42Test.java)|
+|第四十四题|[扑克牌的顺子](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_44.java)|[测试44](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_44Test.java)|
+|第四十五题|[圆圈中最后剩下的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_45.java)|[测试45](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_45Test.java)|
+|第五十一题|[数组中重复的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_51.java)|[测试51](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_51Test.java)|
+
 
 # LeetCode 练习
 |题号|题目及题解|测试用例|

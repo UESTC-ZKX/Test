@@ -4,7 +4,18 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe831fc0-bed3-4520-bba9-7bb1316efca3" name="Default Changelist" comment="" />
+    <list default="true" id="fe831fc0-bed3-4520-bba9-7bb1316efca3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_44Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_45Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_51Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/Swordoffer_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_42.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/Swordoffer_42Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_42Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,8 +75,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="leetCode" />
       <recent name="swordOffer" />
+      <recent name="leetCode" />
       <recent name="dynamicProgram" />
       <recent name="test" />
       <recent name="DynamicProgram" />
@@ -81,7 +92,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCode_337Test">
+  <component name="RunManager" selected="JUnit.LeetCode_198Test.rob">
     <configuration name="LeetCode_198Test.rob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
@@ -98,75 +109,74 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode_213Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SwordOffer_44Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_213Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_337Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_337Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_337Test.rob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_337Test" />
-      <option name="METHOD_NAME" value="rob" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Swordoffer_42Test.LeftRotateString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
+          <option name="PATTERN" value="swordOffer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.Swordoffer_42Test" />
-      <option name="METHOD_NAME" value="LeftRotateString" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_44Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwordOffer_45Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swordOffer" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_45Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwordOffer_45Test.lastRemaining_Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swordOffer" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_45Test" />
+      <option name="METHOD_NAME" value="lastRemaining_Solution" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwordOffer_51Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swordOffer" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_51Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeetCode_337Test" />
-        <item itemvalue="JUnit.LeetCode_337Test.rob" />
-        <item itemvalue="JUnit.LeetCode_213Test" />
         <item itemvalue="JUnit.LeetCode_198Test.rob" />
-        <item itemvalue="JUnit.Swordoffer_42Test.LeftRotateString" />
+        <item itemvalue="JUnit.SwordOffer_51Test" />
+        <item itemvalue="JUnit.SwordOffer_45Test" />
+        <item itemvalue="JUnit.SwordOffer_45Test.lastRemaining_Solution" />
+        <item itemvalue="JUnit.SwordOffer_44Test" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +223,8 @@
       <workItem from="1581767272993" duration="1566000" />
       <workItem from="1581769367455" duration="904000" />
       <workItem from="1581819888132" duration="12389000" />
-      <workItem from="1581912584125" duration="22435000" />
+      <workItem from="1581912584125" duration="23146000" />
+      <workItem from="1581995229877" duration="7889000" />
     </task>
     <servers />
   </component>
@@ -233,50 +244,50 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="468" y="294" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872@0.0.1368.872" timestamp="1581935927408" />
-    <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581940433564">
+    <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1581996412939">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1368.872@0.0.1368.872" timestamp="1581940433564" />
-    <state width="1326" height="214" key="GridCell.Tab.0.bottom" timestamp="1581940438953">
+    <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1368.872@0.0.1368.872" timestamp="1581996412939" />
+    <state width="1326" height="452" key="GridCell.Tab.0.bottom" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581940438953" />
-    <state width="1326" height="214" key="GridCell.Tab.0.center" timestamp="1581940438953">
+    <state width="1326" height="452" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="452" key="GridCell.Tab.0.center" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1581940438953" />
-    <state width="1326" height="214" key="GridCell.Tab.0.left" timestamp="1581940438953">
+    <state width="1326" height="452" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="452" key="GridCell.Tab.0.left" timestamp="1582024760600">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1581940438953" />
-    <state width="1326" height="214" key="GridCell.Tab.0.right" timestamp="1581940438953">
+    <state width="1326" height="452" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582024760600" />
+    <state width="1326" height="452" key="GridCell.Tab.0.right" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1581940438953" />
-    <state width="1326" height="214" key="GridCell.Tab.1.bottom" timestamp="1581940438851">
+    <state width="1326" height="452" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="452" key="GridCell.Tab.1.bottom" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1581940438851" />
-    <state width="1326" height="214" key="GridCell.Tab.1.center" timestamp="1581940438850">
+    <state width="1326" height="452" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="452" key="GridCell.Tab.1.center" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1581940438850" />
-    <state width="1326" height="214" key="GridCell.Tab.1.left" timestamp="1581940438850">
+    <state width="1326" height="452" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="452" key="GridCell.Tab.1.left" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1581940438850" />
-    <state width="1326" height="214" key="GridCell.Tab.1.right" timestamp="1581940438851">
+    <state width="1326" height="452" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="452" key="GridCell.Tab.1.right" timestamp="1582024760601">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="214" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1581940438851" />
+    <state width="1326" height="452" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
     <state x="216" y="22" key="SettingsEditor" timestamp="1581767889676">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="216" y="22" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581767889676" />
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581936513595">
+    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582020267962">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1581936513595" />
+    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1582020267962" />
     <state x="348" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1581936225697">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

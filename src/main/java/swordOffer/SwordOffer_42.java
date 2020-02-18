@@ -18,7 +18,7 @@ package swordOffer;
  * @Author UESTC-ZKX
  * @Date 2020/2/17
  **/
-public class Swordoffer_42 {
+public class SwordOffer_42 {
 
     public String ReverseSentence(String str) {
         StringBuilder stringBuilder = new StringBuilder();
