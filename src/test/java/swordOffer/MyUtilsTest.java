@@ -16,6 +16,12 @@ public class MyUtilsTest {
         assertArrayEquals(res_mySort,array);
     }
 
+    @Test
+    public void quickSortByStack() {
+        myUtils.quickSortByStack(array);
+        assertArrayEquals(res_mySort,array);
+    }
+
     // 测试用例
     private int n = 10, first = 1, second = 2;
     private int[] res_Fibonacci = {1,2,3,5,8,13,21,34,55,89};

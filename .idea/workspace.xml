@@ -5,16 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe831fc0-bed3-4520-bba9-7bb1316efca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_44Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_45Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_51Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_53Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_54Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_56Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_57Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/Swordoffer_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/Swordoffer_42Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_42Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/MyUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/MyUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/MyUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/MyUtilsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/swordOffer/MyUtilsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/swordOffer/MyUtilsTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,24 +96,8 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCode_198Test.rob">
-    <configuration name="LeetCode_198Test.rob" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.LeetCode_198Test" />
-      <option name="METHOD_NAME" value="rob" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwordOffer_44Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SwordOffer_57Test">
+    <configuration name="SwordOffer_53Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +106,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_44Test" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_53Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwordOffer_45Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SwordOffer_53Test.match" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -133,29 +121,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_45Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SwordOffer_45Test.lastRemaining_Solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="swordOffer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_45Test" />
-      <option name="METHOD_NAME" value="lastRemaining_Solution" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_53Test" />
+      <option name="METHOD_NAME" value="match" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwordOffer_51Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SwordOffer_54Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -164,7 +137,38 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="swordOffer" />
-      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_51Test" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_54Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwordOffer_56Test.entryNodeOfLoop" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swordOffer" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_56Test" />
+      <option name="METHOD_NAME" value="entryNodeOfLoop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwordOffer_57Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="swordOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="swordOffer" />
+      <option name="MAIN_CLASS_NAME" value="swordOffer.SwordOffer_57Test" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeetCode_198Test.rob" />
-        <item itemvalue="JUnit.SwordOffer_51Test" />
-        <item itemvalue="JUnit.SwordOffer_45Test" />
-        <item itemvalue="JUnit.SwordOffer_45Test.lastRemaining_Solution" />
-        <item itemvalue="JUnit.SwordOffer_44Test" />
+        <item itemvalue="JUnit.SwordOffer_57Test" />
+        <item itemvalue="JUnit.SwordOffer_56Test.entryNodeOfLoop" />
+        <item itemvalue="JUnit.SwordOffer_54Test" />
+        <item itemvalue="JUnit.SwordOffer_53Test.match" />
+        <item itemvalue="JUnit.SwordOffer_53Test" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +229,8 @@
       <workItem from="1581819888132" duration="12389000" />
       <workItem from="1581912584125" duration="23146000" />
       <workItem from="1581995229877" duration="7889000" />
+      <workItem from="1582024901018" duration="555000" />
+      <workItem from="1582083127431" duration="12001000" />
     </task>
     <servers />
   </component>
@@ -236,10 +242,10 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1581764227951" />
-    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581937139249">
+    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582109489967">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872@0.0.1368.872" timestamp="1581937139249" />
+    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872@0.0.1368.872" timestamp="1582109489967" />
     <state x="468" y="294" width="431" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581935927408">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -248,46 +254,46 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1368.872@0.0.1368.872" timestamp="1581996412939" />
-    <state width="1326" height="452" key="GridCell.Tab.0.bottom" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.0.bottom" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
-    <state width="1326" height="452" key="GridCell.Tab.0.center" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.0.center" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
-    <state width="1326" height="452" key="GridCell.Tab.0.left" timestamp="1582024760600">
+    <state width="1326" height="77" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.0.left" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582024760600" />
-    <state width="1326" height="452" key="GridCell.Tab.0.right" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.0.right" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
-    <state width="1326" height="452" key="GridCell.Tab.1.bottom" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.1.bottom" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
-    <state width="1326" height="452" key="GridCell.Tab.1.center" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.1.center" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
-    <state width="1326" height="452" key="GridCell.Tab.1.left" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.1.left" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
-    <state width="1326" height="452" key="GridCell.Tab.1.right" timestamp="1582024760601">
+    <state width="1326" height="77" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
+    <state width="1326" height="77" key="GridCell.Tab.1.right" timestamp="1582111547189">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1326" height="452" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582024760601" />
+    <state width="1326" height="77" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1582111547189" />
     <state x="216" y="22" key="SettingsEditor" timestamp="1581767889676">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="216" y="22" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1581767889676" />
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582020267962">
+    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582105798901">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1582020267962" />
+    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1582105798901" />
     <state x="348" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1581936225697">
       <screen x="0" y="0" width="1368" height="872" />
     </state>

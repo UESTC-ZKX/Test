@@ -49,7 +49,10 @@ My test project.
 |第四十四题|[扑克牌的顺子](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_44.java)|[测试44](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_44Test.java)|
 |第四十五题|[圆圈中最后剩下的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_45.java)|[测试45](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_45Test.java)|
 |第五十一题|[数组中重复的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_51.java)|[测试51](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_51Test.java)|
-
+|第五十三题|[正则表达式匹配](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_53.java)|[测试53](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_53Test.java)|
+|第五十四题|[表示数值的字符串](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_54.java)|[测试54](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_54Test.java)|
+|第五十六题|[链表中环的入口结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_56.java)|[测试56](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_56Test.java)|
+|第五十七题|[删除链表中重复的结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_57.java)|[测试57](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_57Test.java)|
 
 # LeetCode 练习
 |题号|题目及题解|测试用例|
