@@ -15,6 +15,7 @@ public class SwordOffer_21 {
 
     private Stack<Integer> stack = new Stack<Integer>();
     private Stack<Integer> min = new Stack<Integer>();
+    private Stack<Integer> max = new Stack<Integer>();
 
 
     public void push(int node) {
@@ -26,6 +27,16 @@ public class SwordOffer_21 {
             }
             else {
                 min.push(min.peek());
+            }
+        }
+        if(max.empty()){
+            max.push(node);
+        }else {
+            if (node > max.peek()){
+                max.push(node);
+            }
+            else {
+                max.push(max.peek());
             }
         }
         stack.push(node);
@@ -42,5 +53,9 @@ public class SwordOffer_21 {
 
     public int min() {
         return min.peek();
+    }
+
+    public int max() {
+        return max.peek();
     }
 }

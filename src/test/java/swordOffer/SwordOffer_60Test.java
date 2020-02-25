@@ -1,0 +1,37 @@
+package swordOffer;
+
+import org.junit.Before;
+import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+import static org.junit.Assert.*;
+
+public class SwordOffer_60Test extends MyClass {
+
+    SwordOffer_60 swordOffer_60 = new SwordOffer_60();
+    //测试用例
+    private TreeNode pRoot = new TreeNode(1);
+    private ArrayList<ArrayList<Integer>> res = new ArrayList<ArrayList<Integer>>();
+
+    @Before
+    public void init(){
+        pRoot.left = new TreeNode(2);
+        pRoot.right = new TreeNode(3);
+
+        res.add(new ArrayList<Integer>(){{
+            add(1);
+        }});
+        res.add(new ArrayList<Integer>(){{
+            add(3);
+            add(2);
+        }});
+    }
+
+
+    @Test
+    public void print() {
+        assertEquals(res, swordOffer_60.Print(pRoot));
+    }
+}

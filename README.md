@@ -44,8 +44,8 @@ My test project.
 |第三十八题|[数字在排序数组中出现的次数](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_38.java)|[测试38](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_38Test.java)|
 |第三十九题|[二叉树的深度](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_39.java)|[测试39](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_39Test.java)|
 |第四十题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_40.java)|[测试40](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_40Test.java)|
-|第四十一题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_41.java)|[测试41](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_41Test.java)|
-|第四十二题|[数组中只出现一次的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_42.java)|[测试42](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_42Test.java)|
+|第四十一题|[和为s的两个数字 VS 和为S的连续正数序列](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_41.java)|[测试41](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_41Test.java)|
+|第四十二题|[翻转单词顺序 VS 左旋转字符串](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_42.java)|[测试42](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_42Test.java)|
 |第四十四题|[扑克牌的顺子](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_44.java)|[测试44](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_44Test.java)|
 |第四十五题|[圆圈中最后剩下的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_45.java)|[测试45](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_45Test.java)|
 |第五十一题|[数组中重复的数字](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_51.java)|[测试51](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_51Test.java)|
@@ -53,6 +53,16 @@ My test project.
 |第五十四题|[表示数值的字符串](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_54.java)|[测试54](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_54Test.java)|
 |第五十六题|[链表中环的入口结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_56.java)|[测试56](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_56Test.java)|
 |第五十七题|[删除链表中重复的结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_57.java)|[测试57](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_57Test.java)|
+|第五十八题|[二叉树的下一个结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_58.java)|[测试58](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_58Test.java)|
+|第五十九题|[对称的二叉树](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_59.java)|[测试59](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_59Test.java)|
+|第六十题|[按之字形顺序打印二叉树](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_60.java)|[测试60](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_60Test.java)|
+|第六十一题|[把二叉树打印成多行](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_61.java)|[测试61](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_61Test.java)|
+|第六十二题|[对称的二叉树](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_59.java)|[测试59](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_59Test.java)|
+|第六十三题|[二叉搜索树的第k个结点](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_63.java)|[测试63](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_63Test.java)|
+|第六十五题|[滑动窗口的最大值](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_65.java)|[测试65](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_65Test.java)|
+|第六十六题|[矩阵中的路径](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_66.java)|[测试66](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_66Test.java)|
+|第六十七题|[机器人的运动范围](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/swordOffer/SwordOffer_67.java)|[测试67](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/swordOffer/SwordOffer_67Test.java)|
+
 
 # LeetCode 练习
 |题号|题目及题解|测试用例|
