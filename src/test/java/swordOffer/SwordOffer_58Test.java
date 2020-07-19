@@ -14,7 +14,7 @@ public class SwordOffer_58Test extends MyClass {
     private TreeLinkNode treeLinkNode3;
 
     @Before
-    public void init(){
+    public void init() {
         treeLinkNode1 = new TreeLinkNode(1);
         treeLinkNode3 = new TreeLinkNode(3);
 

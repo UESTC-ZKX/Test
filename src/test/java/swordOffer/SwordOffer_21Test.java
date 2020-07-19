@@ -10,7 +10,7 @@ public class SwordOffer_21Test {
 
     @Test
     public void min() {
-        for(int i=0; i < 100; i++) {
+        for (int i = 0; i < 100; i++) {
             swordOffer_21.push(i);
         }
         assertEquals(0, swordOffer_21.min());

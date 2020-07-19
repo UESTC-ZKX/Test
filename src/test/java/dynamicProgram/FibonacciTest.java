@@ -22,7 +22,7 @@ public class FibonacciTest {
     private int res_upstairsMax = 10;
 
     @Test
-    public void upstairsMax(){
+    public void upstairsMax() {
         assertEquals(res_upstairsMax, fibonacci.upstairsMax(input));
     }
 }

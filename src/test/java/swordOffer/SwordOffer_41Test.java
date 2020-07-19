@@ -10,9 +10,9 @@ public class SwordOffer_41Test {
 
     private SwordOffer_41 swordOffer_41 = new SwordOffer_41();
     // 测试用例1
-    private int[] array = {1,2,3,4,5,6,7,8,9};
+    private int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
     private int sum = 8;
-    private ArrayList<Integer> arrayList = new ArrayList(){{
+    private ArrayList<Integer> arrayList = new ArrayList() {{
         add(1);
         add(7);
     }};
@@ -32,13 +32,13 @@ public class SwordOffer_41Test {
     private ArrayList<ArrayList<Integer>> arrayLists = new ArrayList<>();
 
     @Test
-    public void FindContinuousSequence(){
-        arrayLists.add(new ArrayList<Integer>(){{
+    public void FindContinuousSequence() {
+        arrayLists.add(new ArrayList<Integer>() {{
             add(2);
             add(3);
             add(4);
         }});
-        arrayLists.add(new ArrayList<Integer>(){{
+        arrayLists.add(new ArrayList<Integer>() {{
             add(4);
             add(5);
         }});

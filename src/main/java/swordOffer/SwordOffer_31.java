@@ -2,8 +2,7 @@ package swordOffer;
 
 /**
  * @ClassName SwordOffer_31
- * @Description:
- * 第三十一题
+ * @Description: 第三十一题
  * 在古老的一维模式识别中,常常需要计算连续子向量的最大和,
  * 当向量全为正数的时候,问题很好解决。
  * 但是,如果向量中包含负数,是否应该包含某个负数,并期望旁边的正数会弥补它呢？
@@ -16,6 +15,7 @@ package swordOffer;
 public class SwordOffer_31 {
 
     MyUtils myUtils = new MyUtils();
+
     // 暴力法 时间复杂度O（N*N）
     public int FindGreatestSumOfSubArray(int[] array) {
         int res;
@@ -23,14 +23,14 @@ public class SwordOffer_31 {
 //            return ???;
 //        }
         int curNum, maxNum = array[0];
-        for(int i = 0; i < array.length; i++){
+        for (int i = 0; i < array.length; i++) {
             curNum = array[i];
-            if(curNum > maxNum){
+            if (curNum > maxNum) {
                 maxNum = curNum;
             }
-            for (int j = i+1; j < array.length; j++){
+            for (int j = i + 1; j < array.length; j++) {
                 curNum += array[j];
-                if(curNum > maxNum){
+                if (curNum > maxNum) {
                     maxNum = curNum;
                 }
             }
@@ -40,14 +40,14 @@ public class SwordOffer_31 {
     }
 
     // 动态规划 时间复杂度O(N)
-    public int FindGreatestSumOfSubArray_1(int[] array){
+    public int FindGreatestSumOfSubArray_1(int[] array) {
         int res = array[0];
         // 状态转移方程，dp[i]为包含第i个元素在内的最大子序列
         int[] dp = new int[array.length];
         dp[0] = array[0];
-        for(int i = 1; i < array.length; i++){
-            dp[i] = Math.max(array[i], dp[i-1] + array[i]);
-            res = Math.max(res,dp[i]);
+        for (int i = 1; i < array.length; i++) {
+            dp[i] = Math.max(array[i], dp[i - 1] + array[i]);
+            res = Math.max(res, dp[i]);
         }
         return res;
     }

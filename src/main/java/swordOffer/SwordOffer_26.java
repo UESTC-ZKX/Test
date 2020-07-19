@@ -5,8 +5,7 @@ import java.util.Map;
 
 /**
  * @ClassName SwordOffer_26
- * @Description:
- * 第二十六题
+ * @Description: 第二十六题
  * 输入一个复杂链表
  * （每个节点中有节点值，以及两个指针，
  * 一个指向下一个节点，另一个特殊指针指向任意一个节点），
@@ -17,18 +16,19 @@ import java.util.Map;
  **/
 public class SwordOffer_26 extends MyClass {
     MyUtils myUtils = new MyUtils();
+
     public RandomListNode Clone(RandomListNode pHead) {
-        if (myUtils.isNull(pHead)){
+        if (myUtils.isNull(pHead)) {
             return null;
         }
         Map<RandomListNode, RandomListNode> map = new HashMap<>();
         RandomListNode temp = pHead;
-        while (temp != null){
-            map.put(temp,new RandomListNode(temp.label));
+        while (temp != null) {
+            map.put(temp, new RandomListNode(temp.label));
             temp = temp.next;
         }
         temp = pHead;
-        while (temp != null){
+        while (temp != null) {
             map.get(temp).next = map.get(temp.next);
             map.get(temp).random = map.get(temp.random);
             temp = temp.next;

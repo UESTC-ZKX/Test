@@ -11,10 +11,10 @@ public class SwordOffer_57Test extends MyClass {
     MyUtils myUtils = new MyUtils();
     // 测试用例
     private ListNode pHead = new ListNode(1);
-    private int[] res = {1,2,5};
+    private int[] res = {1, 2, 5};
 
     @Before
-    public void init(){
+    public void init() {
         pHead.next = new ListNode(2);
         pHead.next.next = new ListNode(3);
         pHead.next.next.next = new ListNode(3);

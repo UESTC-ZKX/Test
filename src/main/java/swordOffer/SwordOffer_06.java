@@ -6,8 +6,7 @@ import java.util.stream.Collectors;
 
 /**
  * @ClassName SwordOffer_06
- * @Description:
- * 第6题
+ * @Description: 第6题
  * 输入某二叉树的前序遍历和中序遍历的结果，请重建出该二叉树。
  * 假设输入的前序遍历和中序遍历的结果中都不含重复的数字。
  * 例如输入
@@ -20,14 +19,15 @@ import java.util.stream.Collectors;
 public class SwordOffer_06 extends MyClass {
     // 工具类
     MyUtils myUtils = new MyUtils();
+
     // 分割左右子树法
-    public TreeNode reConstructBinaryTree(int [] pre,int [] in) {
-        if(myUtils.isNull(pre,in) || pre.length == 0){
+    public TreeNode reConstructBinaryTree(int[] pre, int[] in) {
+        if (myUtils.isNull(pre, in) || pre.length == 0) {
             return null;
         }
 
         // 递归终止条件
-        if(pre.length == 1){
+        if (pre.length == 1) {
             return new TreeNode(pre[0]);
         }
         // 将输入的int数组转为List
@@ -43,23 +43,19 @@ public class SwordOffer_06 extends MyClass {
         // 左子树序列
         int[] leftIn = inList.subList(0, rootIndex).stream()
                 .mapToInt(Integer::valueOf).toArray();
-        int[] leftPre = preList.subList(1,rootIndex+1).stream()
+        int[] leftPre = preList.subList(1, rootIndex + 1).stream()
                 .mapToInt(Integer::valueOf).toArray();
         // 右子树序列
-        int[] rightIn = inList.subList(rootIndex+1, in.length)
+        int[] rightIn = inList.subList(rootIndex + 1, in.length)
                 .stream().mapToInt(Integer::valueOf).toArray();
-        int[] rightPre = preList.subList(rootIndex+1, pre.length)
+        int[] rightPre = preList.subList(rootIndex + 1, pre.length)
                 .stream().mapToInt(Integer::valueOf).toArray();
 
         // 开始递归
-        root.left = reConstructBinaryTree(leftPre,leftIn);
-        root.right = reConstructBinaryTree(rightPre,rightIn);
+        root.left = reConstructBinaryTree(leftPre, leftIn);
+        root.right = reConstructBinaryTree(rightPre, rightIn);
         return root;
     }
-
-
-
-
 
 
 }

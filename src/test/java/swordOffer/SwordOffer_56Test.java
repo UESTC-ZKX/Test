@@ -13,7 +13,7 @@ public class SwordOffer_56Test extends MyClass {
     private ListNode res = pHead;
 
     @Before
-    public void init(){
+    public void init() {
         pHead.next = new ListNode(1);
         pHead.next.next = new ListNode(2);
         pHead.next.next.next = pHead;

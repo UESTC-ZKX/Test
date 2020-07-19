@@ -15,14 +15,14 @@ public class SwordOffer_61Test extends MyClass {
     private ArrayList<ArrayList<Integer>> res = new ArrayList<ArrayList<Integer>>();
 
     @Before
-    public void init(){
+    public void init() {
         pRoot.left = new TreeNode(2);
         pRoot.right = new TreeNode(3);
 
-        res.add(new ArrayList<Integer>(){{
+        res.add(new ArrayList<Integer>() {{
             add(1);
         }});
-        res.add(new ArrayList<Integer>(){{
+        res.add(new ArrayList<Integer>() {{
             add(2);
             add(3);
         }});

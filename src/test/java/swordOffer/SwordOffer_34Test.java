@@ -13,6 +13,6 @@ public class SwordOffer_34Test {
 
     @Test
     public void getUglyNumber_Solution() {
-        assertEquals(res,swordOffer_34.GetUglyNumber_Solution(index));
+        assertEquals(res, swordOffer_34.GetUglyNumber_Solution(index));
     }
 }

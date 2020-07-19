@@ -12,12 +12,14 @@ public class SwordOffer_11Test {
     double base = 2;
     int exponent = 4;
     double res = 16;
+
     @Before
-    public void init(){
+    public void init() {
         swordOffer_11 = new SwordOffer_11();
     }
+
     @Test
     public void power() {
-        assertEquals(res, swordOffer_11.Power(base, exponent),0);
+        assertEquals(res, swordOffer_11.Power(base, exponent), 0);
     }
 }

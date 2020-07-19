@@ -22,7 +22,7 @@ public class SwordOffer_42Test {
     private String res2 = "XYZdefabc";
 
     @Test
-    public void LeftRotateString(){
+    public void LeftRotateString() {
         assertEquals(res2, swordOffer_42.LeftRotateString(str2, n));
     }
 }

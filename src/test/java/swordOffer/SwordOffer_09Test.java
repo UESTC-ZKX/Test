@@ -13,17 +13,17 @@ public class SwordOffer_09Test {
     private int res = 55;
 
     @Before
-    public void init(){
+    public void init() {
         swordOffer_09 = new SwordOffer_09();
     }
 
     @Test
     public void fibonacci() {
-        assertEquals(res,swordOffer_09.Fibonacci(n));
+        assertEquals(res, swordOffer_09.Fibonacci(n));
     }
 
     @Test
-    public void fibonacci_1(){
-        assertEquals(res,swordOffer_09.Fibonacci_1(n));
+    public void fibonacci_1() {
+        assertEquals(res, swordOffer_09.Fibonacci_1(n));
     }
 }

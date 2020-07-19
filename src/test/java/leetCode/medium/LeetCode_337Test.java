@@ -1,11 +1,11 @@
-package leetCode;
+package leetCode.medium;
 
 import org.junit.Before;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class LeetCode_337Test extends MyClass{
+public class LeetCode_337Test extends MyClass {
 
     LeetCode_337 leetCode_337 = new LeetCode_337();
     //测试用例
@@ -13,7 +13,7 @@ public class LeetCode_337Test extends MyClass{
     private int res = 7;
 
     @Before
-    public void init(){
+    public void init() {
         root.left = new TreeNode(2);
         root.left.right = new TreeNode(3);
 

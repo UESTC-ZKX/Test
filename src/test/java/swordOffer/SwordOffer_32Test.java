@@ -18,7 +18,7 @@ public class SwordOffer_32Test {
     }
 
     @Test
-    public void numberOf1Between1AndN_Solution_1(){
+    public void numberOf1Between1AndN_Solution_1() {
         assertEquals(res, swordOffer_32.NumberOf1Between1AndN_Solution_1(n));
     }
 

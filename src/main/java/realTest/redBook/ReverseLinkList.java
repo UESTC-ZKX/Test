@@ -32,15 +32,14 @@ public class ReverseLinkList {
         ListNode tail = head;
         //3.将输入的字符串变为链表节点
         for (String str : strings) {
-            ListNode newNode = new ListNode(Integer.valueOf(str));
-            tail.next = newNode;
+            tail.next = new ListNode(Integer.valueOf(str));
             tail = tail.next;
         }
         head = head.next;
         //每k个反转链表
         ListNode node = reverseGroup(head, k);
-        while(node!=null){
-            System.out.print(node.val+" ");
+        while (node != null) {
+            System.out.print(node.val + " ");
             node = node.next;
         }
     }
@@ -54,13 +53,13 @@ public class ReverseLinkList {
         for (int count = 1; count < k; count++) {
             currentNode = currentNode.next;
             //不够K个则返回
-            if(currentNode==null)
+            if (currentNode == null)
                 return head;
         }
         ListNode next = currentNode.next;
         //对局部链表进行反转
-        reverse(head,currentNode);
-        head.next=reverseGroup(next,k);
+        reverse(head, currentNode);
+        head.next = reverseGroup(next, k);
         return currentNode;
     }
 

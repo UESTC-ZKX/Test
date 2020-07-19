@@ -4,8 +4,7 @@ import java.util.HashSet;
 
 /**
  * @ClassName SwordOffer_51
- * @Description:
- * 第五十一题
+ * @Description: 第五十一题
  * 在一个长度为n的数组里的所有数字都在0到n-1的范围内。
  * 数组中某些数字是重复的，但不知道有几个数字是重复的。
  * 也不知道每个数字重复几次。请找出数组中任意一个重复的数字。
@@ -24,15 +23,15 @@ public class SwordOffer_51 {
     //    这里要特别注意~返回任意重复的一个，赋值duplication[0]
     // Return value:       true if the input is valid, and there are some duplications in the array number
     //                     otherwise false
-    public boolean duplicate(int numbers[],int length,int [] duplication) {
+    public boolean duplicate(int[] numbers, int length, int[] duplication) {
 
-        if(numbers == null||numbers.length <= 1){
+        if (numbers == null || numbers.length <= 1) {
             duplication[0] = -1;
             return false;
         }
         HashSet<Integer> set = new HashSet<>();
-        for(int i : numbers){
-            if(set.contains(i)){
+        for (int i : numbers) {
+            if (set.contains(i)) {
                 duplication[0] = i;
                 return true;
             }

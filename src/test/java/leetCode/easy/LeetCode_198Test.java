@@ -1,4 +1,4 @@
-package leetCode;
+package leetCode.easy;
 
 import org.junit.Test;
 
@@ -8,7 +8,7 @@ public class LeetCode_198Test {
 
     LeetCode_198 leetCode_198 = new LeetCode_198();
     // 测试用例
-    private  int[] nums = {1,2,3,1};
+    private int[] nums = {1, 2, 3, 1};
     private int res = 4;
 
     @Test

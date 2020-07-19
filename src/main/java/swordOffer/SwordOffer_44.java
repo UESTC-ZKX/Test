@@ -6,8 +6,7 @@ import java.util.List;
 
 /**
  * @ClassName SwordOffer_44
- * @Description:
- * 第四十四题
+ * @Description: 第四十四题
  * LL今天心情特别好,因为他去买了一副扑克牌,
  * 发现里面居然有2个大王,2个小王(一副牌原本是54张^_^)...
  * 他随机从中抽出了5张牌,想测测自己的手气,看看能不能抽到顺子,
@@ -23,33 +22,32 @@ import java.util.List;
  **/
 public class SwordOffer_44 {
 
-    public boolean isContinuous(int [] numbers) {
-        if(numbers.length <= 0 || numbers.length > 13){
+    public boolean isContinuous(int[] numbers) {
+        if (numbers.length <= 0 || numbers.length > 13) {
             return false;
         }
         // 分开存数字和大小王
         List<Integer> listKing = new ArrayList<>();
         List<Integer> listNumber = new ArrayList<>();
-        for(int i : numbers){
-            if(i == 0){
+        for (int i : numbers) {
+            if (i == 0) {
                 listKing.add(i);
-            }
-            else {
+            } else {
                 listNumber.add(i);
             }
         }
         Collections.sort(listNumber);
         // 全是王和只有一个数字1时
-        if(listNumber.size() <= 1){
+        if (listNumber.size() <= 1) {
             return true;
         }
         // 需要多少个大小王
         int temp = 0;
-        for(int j = 1; j < listNumber.size(); j++){
+        for (int j = 1; j < listNumber.size(); j++) {
             // 当有重复时
-            if(listNumber.get(j) - listNumber.get(j-1) == 0){
+            if (listNumber.get(j) - listNumber.get(j - 1) == 0) {
                 return false;
-            }else {
+            } else {
                 temp += listNumber.get(j) - listNumber.get(j - 1) - 1;
             }
         }

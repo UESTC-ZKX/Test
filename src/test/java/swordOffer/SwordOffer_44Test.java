@@ -8,7 +8,7 @@ public class SwordOffer_44Test {
 
     SwordOffer_44 swordOffer_44 = new SwordOffer_44();
     // 测试用例
-    private int[] numbers = {1,3,0,0,5};
+    private int[] numbers = {1, 3, 0, 0, 5};
     private boolean res = true;
 
     @Test

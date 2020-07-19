@@ -10,14 +10,14 @@ public class SwordOffer_16Test extends MyClass {
     SwordOffer_16 swordOffer_16;
     MyUtils myUtils;
     // 测试用例
-    ListNode listNode_1 = new  ListNode(1);
-    ListNode listNode_2 = new  ListNode(2);
-    ListNode listNode_3 = new  ListNode(3);
-    ListNode listNode_4 = new  ListNode(4);
-    int[] res = new int[]{4,3,2,1};
+    ListNode listNode_1 = new ListNode(1);
+    ListNode listNode_2 = new ListNode(2);
+    ListNode listNode_3 = new ListNode(3);
+    ListNode listNode_4 = new ListNode(4);
+    int[] res = new int[]{4, 3, 2, 1};
 
     @Before
-    public void init(){
+    public void init() {
         swordOffer_16 = new SwordOffer_16();
         myUtils = new MyUtils();
         listNode_1.next = listNode_2;
@@ -30,17 +30,17 @@ public class SwordOffer_16Test extends MyClass {
         ListNode head = swordOffer_16.ReverseList(listNode_1);
         int[] array = new int[res.length];
         int i = 0;
-        while (head != null){
+        while (head != null) {
             array[i++] = head.val;
             head = head.next;
         }
-        assertArrayEquals(res,array);
+        assertArrayEquals(res, array);
     }
 
     @Test
     public void reverseList_1() {
         ListNode head = swordOffer_16.ReverseList_1(listNode_1);
         int[] array = myUtils.linkListToArray(head);
-        assertArrayEquals(res,array);
+        assertArrayEquals(res, array);
     }
 }

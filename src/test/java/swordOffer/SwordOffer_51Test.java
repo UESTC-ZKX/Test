@@ -8,7 +8,7 @@ public class SwordOffer_51Test {
 
     SwordOffer_51 swordOffer_51 = new SwordOffer_51();
     // 测试用例
-    private int[] numbers = {2,3,1,0,2,5,3};
+    private int[] numbers = {2, 3, 1, 0, 2, 5, 3};
     private int[] duplication = new int[1];
     private int length = 7;
     private int res = 2;

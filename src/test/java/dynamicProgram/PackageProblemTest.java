@@ -10,7 +10,7 @@ public class PackageProblemTest {
     // 测试用例
     private int n = 5, c = 10;
     private int[] wi = {2, 2, 6, 5, 4},
-                  pi = {6, 3, 5, 4, 6};
+            pi = {6, 3, 5, 4, 6};
     private int res = 15;
 
     @Test

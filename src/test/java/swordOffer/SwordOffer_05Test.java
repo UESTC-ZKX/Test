@@ -13,20 +13,20 @@ public class SwordOffer_05Test extends MyClass {
     // 测试用例
     private ListNode listNode = new ListNode(0);
     private ListNode listNode_1 = new ListNode(1);
-    ArrayList<Integer> res = new ArrayList<Integer>(){{
+    ArrayList<Integer> res = new ArrayList<Integer>() {{
         add(1);
         add(0);
     }};
 
     @Before
-    public void init(){
+    public void init() {
         swordOffer_05 = new SwordOffer_05();
         listNode.next = listNode_1;
     }
 
     @Test
     public void printListFromTailToHead() {
-        assertEquals(res,swordOffer_05.printListFromTailToHead(listNode));
+        assertEquals(res, swordOffer_05.printListFromTailToHead(listNode));
 
     }
 }

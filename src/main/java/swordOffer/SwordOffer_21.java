@@ -4,8 +4,7 @@ import java.util.Stack;
 
 /**
  * @ClassName SwordOffer_21
- * @Description:
- * 第二十一题
+ * @Description: 第二十一题
  * 定义栈的数据结构，
  * 请在该类型中实现一个能够得到栈中所含最小元素的min函数（时间复杂度应为O（1））。
  * @Author UESTC-ZKX
@@ -19,23 +18,21 @@ public class SwordOffer_21 {
 
 
     public void push(int node) {
-        if(min.empty()){
+        if (min.empty()) {
             min.push(node);
-        }else {
-            if (node < min.peek()){
+        } else {
+            if (node < min.peek()) {
                 min.push(node);
-            }
-            else {
+            } else {
                 min.push(min.peek());
             }
         }
-        if(max.empty()){
+        if (max.empty()) {
             max.push(node);
-        }else {
-            if (node > max.peek()){
+        } else {
+            if (node > max.peek()) {
                 max.push(node);
-            }
-            else {
+            } else {
                 max.push(max.peek());
             }
         }

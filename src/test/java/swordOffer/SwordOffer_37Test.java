@@ -9,11 +9,11 @@ public class SwordOffer_37Test extends MyClass {
 
     SwordOffer_37 swordOffer_37 = new SwordOffer_37();
     // 测试用例
-    private ListNode pHead1,pHead2;
+    private ListNode pHead1, pHead2;
     private ListNode res;
 
     @Before
-    public void init(){
+    public void init() {
         pHead1 = new ListNode(1);
         pHead2 = new ListNode(2);
         res = new ListNode(3);

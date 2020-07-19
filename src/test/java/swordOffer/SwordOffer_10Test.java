@@ -19,6 +19,6 @@ public class SwordOffer_10Test {
 
     @Test
     public void numberOf1() {
-        assertEquals(res,swordOffer_10.NumberOf1(n));
+        assertEquals(res, swordOffer_10.NumberOf1(n));
     }
 }

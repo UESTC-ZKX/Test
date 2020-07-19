@@ -14,14 +14,14 @@ public class SwordOffer_62Test extends MyClass {
     MyUtils myUtils = new MyUtils();
     // 测试用例
     private TreeNode root = new TreeNode(1);
-    private List<Integer> res = new ArrayList<Integer>(){{
+    private List<Integer> res = new ArrayList<Integer>() {{
         add(1);
         add(2);
         add(3);
     }};
 
     @Before
-    public void init(){
+    public void init() {
         root.left = new TreeNode(2);
         root.right = new TreeNode(3);
     }

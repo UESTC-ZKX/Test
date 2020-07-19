@@ -12,7 +12,7 @@ public class SwordOffer_28Test {
     // 测试用例
     private String str = "abc";
     private String[] res = {
-            "abc","acb","bac","bca","cab","cba"
+            "abc", "acb", "bac", "bca", "cab", "cba"
     };
 
     @Test

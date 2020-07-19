@@ -12,6 +12,7 @@ public class MyClass {
     public class ListNode {
         int val;
         ListNode next = null;
+
         ListNode(int val) {
             this.val = val;
         }
@@ -22,6 +23,7 @@ public class MyClass {
         int val;
         TreeNode left = null;
         TreeNode right = null;
+
         TreeNode(int val) {
             this.val = val;
         }
@@ -32,13 +34,14 @@ public class MyClass {
         int label;
         RandomListNode next = null;
         RandomListNode random = null;
+
         RandomListNode(int label) {
             this.label = label;
         }
     }
 
     // 带父节点的树节点
-    public class TreeLinkNode{
+    public class TreeLinkNode {
         int val;
         TreeLinkNode left = null;
         TreeLinkNode right = null;

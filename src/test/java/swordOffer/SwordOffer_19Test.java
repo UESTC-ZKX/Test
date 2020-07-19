@@ -15,15 +15,14 @@ public class SwordOffer_19Test extends MyClass {
     //生成树
     private SwordOffer_06 swordOffer_06;
     // 测试用例
-    private int[] pre = {1,2,3};
-    private int[] in = {2,1,3};
+    private int[] pre = {1, 2, 3};
+    private int[] in = {2, 1, 3};
     private TreeNode root;
-    private int[] res = {1,3,2};
-
+    private int[] res = {1, 3, 2};
 
 
     @Before
-    public void init(){
+    public void init() {
         swordOffer_06 = new SwordOffer_06();
         swordOffer_19 = new SwordOffer_19();
         root = swordOffer_06.reConstructBinaryTree(pre, in);

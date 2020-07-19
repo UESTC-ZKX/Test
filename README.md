@@ -65,11 +65,20 @@ My test project.
 
 
 # LeetCode 练习
-|题号|题目及题解|测试用例|
-|:-----|:----|:----|
-|198|[打家劫舍1](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/leetCode/LeetCode_198.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/leetCode/LeetCode_198Test.java)|
-|213|[打家劫舍2](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/leetCode/LeetCode_213.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/leetCode/LeetCode_213Test.java)|
-|337|[打家劫舍3](https://github.com/UESTC-ZKX/Test/blob/master/src/main/java/leetCode/LeetCode_337.java)|[测试](https://github.com/UESTC-ZKX/Test/blob/master/src/test/java/leetCode/LeetCode_337Test.java)|
+## 简单
+|题号|题目及题解|
+|:-----|:----|
+|7|整数反转|
+|198|打家劫舍1|
+## 普通
+|题号|题目及题解|
+|:-----|:----|
+|213|打家劫舍2|
+|337|打家劫舍3|
+## 困难
+|题号|题目及题解|
+|:-----|:----|
+|10 & 44|正则表达式匹配 |
 
 
 # 普通练习

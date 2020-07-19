@@ -14,7 +14,7 @@ public class SwordOffer_63Test extends MyClass {
     private TreeNode res = pRoot;
 
     @Before
-    public void init(){
+    public void init() {
         pRoot.left = new TreeNode(1);
         pRoot.right = new TreeNode(3);
     }

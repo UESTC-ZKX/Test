@@ -14,17 +14,17 @@ public class SwordOffer_04Test {
     final static private String res = "We%20Are%20Happy";
 
     @Before
-    public void init(){
+    public void init() {
         swordOffer_04 = new SwordOffer_04();
     }
 
     @Test
     public void replaceSpace() {
-        assertEquals(res,swordOffer_04.replaceSpace(str));
+        assertEquals(res, swordOffer_04.replaceSpace(str));
     }
 
     @Test
     public void replaceSpace_1() {
-        assertEquals(res,swordOffer_04.replaceSpace_1(str));
+        assertEquals(res, swordOffer_04.replaceSpace_1(str));
     }
 }
