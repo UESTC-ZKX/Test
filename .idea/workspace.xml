@@ -1,357 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe831fc0-bed3-4520-bba9-7bb1316efca3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/dynamicProgram/HannoTower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/easy/LeetCode_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/easy/LeetCode_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/hard/LeetCode_10_and_44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/hard/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/medium/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/huawei/EmptyBottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/vivo/DeliverOres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/vivo/FindMaxUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/vivo/OneLineMerge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/vivo/Unboxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/FindTreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/byteDance/FindUserType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/byteDance/takeWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/Find101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/FindNFriend.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/SaveString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/vivo/FindM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/vivo/FindPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/vivo/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadPrintDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadPrintDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/dynamicProgram/HannoTowerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/easy/LeetCode_7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/easy/LeetCode_9Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/Test1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/vivo/FindMTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/vivo/PhoneTest.java" afterDir="false" />
+    <list default="true" id="7069e954-b662-4f5a-a2d3-cae478a45323" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/hard/LeetCode_312.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/hard/LeetCode_312Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicProgram/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dynamicProgram/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicProgram/PackageProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dynamicProgram/PackageProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/example/CastExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/example/CastExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/LeetCode_198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/easy/LeetCode_198.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/LeetCode_213.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/medium/LeetCode_213.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/LeetCode_337.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/medium/LeetCode_337.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/leetCode/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/leetCode/easy/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/bilibili/ArraysArrangedMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/bilibili/ArraysArrangedMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/bilibili/ChangeWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/bilibili/ChangeWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/bilibili/FlipSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/bilibili/FlipSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/bilibili/OneZeroPackageProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/bilibili/OneZeroPackageProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/huawei/TakeUmbrella.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/huawei/TakeUmbrella.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/redBook/BuildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/redBook/BuildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/redBook/FactorialZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/redBook/FactorialZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/redBook/FindOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/redBook/FindOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/redBook/ReverseLinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/redBook/ReverseLinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/redBook/Shifts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/redBook/Shifts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/realTest/redBook/ZipString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/realTest/redBook/ZipString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/MyUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/MyUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/swordOffer/SwordOffer_67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/FindTopKNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/FindTopKNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/ioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/ioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/dynamicProgram/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dynamicProgram/FibonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/dynamicProgram/PackageProblemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dynamicProgram/PackageProblemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leetCode/LeetCode_198Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetCode/easy/LeetCode_198Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leetCode/LeetCode_213Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetCode/medium/LeetCode_213Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/leetCode/LeetCode_337Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetCode/medium/LeetCode_337Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/MyUtilsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/MyUtilsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_03Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_03Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_04Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_04Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_05Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_05Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_06Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_06Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_07Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_07Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_08Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_08Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_09Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_09Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_10Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_10Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_11Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_11Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_14Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_14Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_15Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_15Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_16Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_16Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_17Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_17Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_18Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_18Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_19Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_19Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_20Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_20Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_21Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_21Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_22Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_22Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_23Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_23Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_24Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_24Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_25Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_25Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_26Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_26Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_27Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_27Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_28Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_28Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_29Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_29Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_30Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_30Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_31Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_31Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_32Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_32Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_33Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_33Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_34Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_34Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_36Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_36Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_37Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_37Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_38Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_38Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_39Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_39Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_40Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_40Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_41Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_41Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_42Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_42Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_44Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_44Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_51Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_51Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_56Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_56Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_57Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_57Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_58Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_58Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_59Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_59Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_60Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_60Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_61Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_61Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_62Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_62Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_63Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_63Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_65Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_65Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_66Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/swordOffer/SwordOffer_66Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/example/CastExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/example/CastExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyClass$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/MyUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/MyUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/swordOffer/SwordOffer_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Factorial$Mutiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Factorial$Mutiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/FindTopKNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/FindTopKNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/swordOffer/SwordOffer_08Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/swordOffer/SwordOffer_08Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.iml" beforeDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="190" />
-  </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
-        <option value="JUnit4 Test Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1Xq1AGcxfEPTvFDSdzwKQHy4FXr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectId" id="1esxTnqn40E2yxwSAeaODQcR89p" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="leetCode.easy" />
-      <recent name="test" />
-      <recent name="test.vivo" />
-      <recent name="dynamicProgram" />
-      <recent name="swordOffer" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="leetCode.medium" />
-      <recent name="leetCode.easy" />
-      <recent name="swordOffer" />
-      <recent name="" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leetCode.easy" />
       <recent name="leetCode.hard" />
-      <recent name="leetCode.medium" />
-      <recent name="leetCode" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LeetCode_9Test.isPalindrome">
-    <configuration name="FindUserType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.byteDance.FindUserType" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LeetCode_312Test.maxCoins_1">
+    <configuration name="LeetCode_312Test.maxCoins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.byteDance.*" />
+          <option name="PATTERN" value="leetCode.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="takeWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.byteDance.takeWater" />
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.byteDance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_7Test.reverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode.easy" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.easy.LeetCode_7Test" />
-      <option name="METHOD_NAME" value="reverse" />
+      <option name="PACKAGE_NAME" value="leetCode.hard" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.hard.LeetCode_312Test" />
+      <option name="METHOD_NAME" value="maxCoins" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetCode_9Test.isPalindrome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode_312Test.maxCoins_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetCode.easy.*" />
+          <option name="PATTERN" value="leetCode.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="leetCode.easy" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.easy.LeetCode_9Test" />
-      <option name="METHOD_NAME" value="isPalindrome" />
+      <option name="PACKAGE_NAME" value="leetCode.hard" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.hard.LeetCode_312Test" />
+      <option name="METHOD_NAME" value="maxCoins_1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1Test.maxUncrossedLines" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LeetCode_312Test.removeNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="leetCode.hard.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="test" />
-      <option name="MAIN_CLASS_NAME" value="test.Test1Test" />
-      <option name="METHOD_NAME" value="maxUncrossedLines" />
+      <option name="PACKAGE_NAME" value="leetCode.hard" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.hard.LeetCode_312Test" />
+      <option name="METHOD_NAME" value="removeNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.vivo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.vivo" />
+      <option name="MAIN_CLASS_NAME" value="test.vivo.PhoneTest" />
+      <option name="METHOD_NAME" value="solution" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -359,11 +136,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeetCode_9Test.isPalindrome" />
-        <item itemvalue="Application.takeWater" />
-        <item itemvalue="Application.FindUserType" />
-        <item itemvalue="JUnit.LeetCode_7Test.reverse" />
-        <item itemvalue="JUnit.Test1Test.maxUncrossedLines" />
+        <item itemvalue="JUnit.LeetCode_312Test.maxCoins_1" />
+        <item itemvalue="JUnit.LeetCode_312Test.maxCoins" />
+        <item itemvalue="JUnit.LeetCode_312Test.removeNum" />
+        <item itemvalue="JUnit.PhoneTest.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -372,163 +148,25 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fe831fc0-bed3-4520-bba9-7bb1316efca3" name="Default Changelist" comment="" />
-      <created>1579777481855</created>
+      <changelist id="7069e954-b662-4f5a-a2d3-cae478a45323" name="Default Changelist" comment="" />
+      <created>1595124112264</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1579777481855</updated>
-      <workItem from="1579777485834" duration="623000" />
-      <workItem from="1579836535385" duration="2770000" />
-      <workItem from="1579919715116" duration="5661000" />
-      <workItem from="1580178768144" duration="7273000" />
-      <workItem from="1580212348725" duration="7052000" />
-      <workItem from="1580611010797" duration="11091000" />
-      <workItem from="1580811955658" duration="4901000" />
-      <workItem from="1581217187247" duration="2825000" />
-      <workItem from="1581387339071" duration="353000" />
-      <workItem from="1581391816071" duration="9029000" />
-      <workItem from="1581473960190" duration="9128000" />
-      <workItem from="1581485558737" duration="511000" />
-      <workItem from="1581488592203" duration="101000" />
-      <workItem from="1581489041088" duration="435000" />
-      <workItem from="1581489651109" duration="722000" />
-      <workItem from="1581493111195" duration="163000" />
-      <workItem from="1581504211506" duration="756000" />
-      <workItem from="1581504998648" duration="2285000" />
-      <workItem from="1581560967256" duration="739000" />
-      <workItem from="1581561729604" duration="12118000" />
-      <workItem from="1581592234108" duration="8712000" />
-      <workItem from="1581642832941" duration="16045000" />
-      <workItem from="1581729753370" duration="5100000" />
-      <workItem from="1581752849221" duration="1608000" />
-      <workItem from="1581758674575" duration="1143000" />
-      <workItem from="1581763109347" duration="417000" />
-      <workItem from="1581763546089" duration="98000" />
-      <workItem from="1581763664727" duration="164000" />
-      <workItem from="1581763882238" duration="152000" />
-      <workItem from="1581764113860" duration="2948000" />
-      <workItem from="1581767272993" duration="1566000" />
-      <workItem from="1581769367455" duration="904000" />
-      <workItem from="1581819888132" duration="12389000" />
-      <workItem from="1581912584125" duration="23146000" />
-      <workItem from="1581995229877" duration="7889000" />
-      <workItem from="1582024901018" duration="555000" />
-      <workItem from="1582083127431" duration="12001000" />
-      <workItem from="1582168607514" duration="5282000" />
-      <workItem from="1582269204499" duration="7513000" />
-      <workItem from="1582340905550" duration="11597000" />
-      <workItem from="1582421357149" duration="8609000" />
-      <workItem from="1582515688412" duration="8247000" />
-      <workItem from="1582600090191" duration="249000" />
-      <workItem from="1582600626629" duration="23222000" />
-      <workItem from="1582628117683" duration="37000" />
-      <workItem from="1582703153795" duration="15836000" />
-      <workItem from="1582768887571" duration="264000" />
-      <workItem from="1582784066002" duration="15047000" />
-      <workItem from="1582855602879" duration="2979000" />
-      <workItem from="1582942116857" duration="6286000" />
-      <workItem from="1583028216882" duration="2176000" />
-      <workItem from="1583114457588" duration="15753000" />
-      <workItem from="1583208304456" duration="12177000" />
-      <workItem from="1583281826077" duration="11795000" />
-      <workItem from="1583383117951" duration="2535000" />
-      <workItem from="1583547227927" duration="3905000" />
-      <workItem from="1583554137690" duration="1852000" />
-      <workItem from="1583566987360" duration="10288000" />
-      <workItem from="1583631459257" duration="3458000" />
-      <workItem from="1583650154750" duration="5443000" />
-      <workItem from="1583723870619" duration="1365000" />
-      <workItem from="1583810342739" duration="4507000" />
-      <workItem from="1583891684190" duration="604000" />
-      <workItem from="1584095839955" duration="3725000" />
-      <workItem from="1584235534225" duration="2685000" />
-      <workItem from="1584268783206" duration="5004000" />
-      <workItem from="1584326833554" duration="700000" />
-      <workItem from="1584343678994" duration="9000" />
-      <workItem from="1584345160817" duration="1508000" />
-      <workItem from="1595033746750" duration="784000" />
+      <updated>1595124112264</updated>
     </task>
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581764227951">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="140" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1581764227951" />
-    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1584098635548">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="93" y="93" width="1181" height="685" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1368.872@0.0.1368.872" timestamp="1584098635548" />
-    <state x="490" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1583141469916">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="490" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1368.872@0.0.1368.872" timestamp="1583141469916" />
-    <state x="468" y="294" width="431" height="332" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584236589967">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="468" y="294" width="431" height="332" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1368.872@0.0.1368.872" timestamp="1584236589967" />
-    <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583292376476">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="370" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1368.872@0.0.1368.872" timestamp="1583292376476" />
-    <state x="517" y="203" key="FileChooserDialogImpl" timestamp="1584327186028">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="517" y="203" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1584327186028" />
-    <state width="1326" height="355" key="GridCell.Tab.0.bottom" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="355" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="355" key="GridCell.Tab.0.center" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="355" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="355" key="GridCell.Tab.0.left" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="355" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="355" key="GridCell.Tab.0.right" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="355" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="504" key="GridCell.Tab.1.bottom" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="504" key="GridCell.Tab.1.bottom/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="504" key="GridCell.Tab.1.center" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="504" key="GridCell.Tab.1.center/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="504" key="GridCell.Tab.1.left" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="504" key="GridCell.Tab.1.left/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state width="1326" height="504" key="GridCell.Tab.1.right" timestamp="1584347634065">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state width="1326" height="504" key="GridCell.Tab.1.right/0.0.1368.872@0.0.1368.872" timestamp="1584347634065" />
-    <state x="216" y="22" key="SettingsEditor" timestamp="1584327523339">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="216" y="22" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1584327523339" />
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1584345360806">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="456" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1368.872@0.0.1368.872" timestamp="1584345360806" />
-    <state x="356" y="193" width="672" height="678" key="search.everywhere.popup" timestamp="1583570239884">
-      <screen x="0" y="0" width="1368" height="872" />
-    </state>
-    <state x="356" y="193" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1583570239884" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Test$LeetCode_9Test_isPalindrome.ic" NAME="LeetCode_9Test.isPalindrome Coverage Results" MODIFIED="1584345566628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>leetCode.easy.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Test$SaveString.ic" NAME="SaveString Coverage Results" MODIFIED="1582796270965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>test.huawei.*</FILTER>
-    </SUITE>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
