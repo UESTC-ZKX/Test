@@ -1,12 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7069e954-b662-4f5a-a2d3-cae478a45323" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/leetCode/easy/LeetCode_167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/leetCode/easy/LeetCode_167Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/designPatterns/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/ths/CombinationProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/ths/DictionarySearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/realTest/ths/keyword.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/TreeMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/alibaba/CacheUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/nowcoder/Test103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/nowcoder/Test105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/nowcoder/Test106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/nowcoder/Test107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/nowcoder/Test108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/huawei/nowcoder/Test31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/test1/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/test1/ShowMeBug.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/ProducerConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/thread/synchronizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/alibaba/CacheUtilTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/ThreadPrintDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/ThreadPrintDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/leetCode/easy/LeetCode_7Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/leetCode/easy/LeetCode_7Test.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,29 +57,48 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\98295\.m2\repository" />
+        <option name="mavenHome" value="C:\APP\Study\IDE\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="C:\Users\98295\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1esxTnqn40E2yxwSAeaODQcR89p" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../iPeople-System/pom.xml" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.alibaba" />
       <recent name="leetCode.easy" />
       <recent name="leetCode.hard" />
     </key>
@@ -45,20 +106,73 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.LeetCode_167Test.twoSum">
-    <configuration name="LeetCode_167Test.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ProducerConsumer">
+    <configuration name="CombinationProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="realTest.ths.CombinationProblem" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="realTest.ths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DictionarySearcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="realTest.ths.DictionarySearcher" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="realTest.ths.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thread.ProducerConsumer" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test103" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.huawei.nowcoder.Test103" />
+      <module name="Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.huawei.nowcoder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode_7Test.reverse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Test" />
       <extension name="coverage">
         <pattern>
@@ -67,72 +181,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="leetCode.easy" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.easy.LeetCode_167Test" />
-      <option name="METHOD_NAME" value="twoSum" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_312Test.maxCoins" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode.hard" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.hard.LeetCode_312Test" />
-      <option name="METHOD_NAME" value="maxCoins" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_312Test.maxCoins_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode.hard" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.hard.LeetCode_312Test" />
-      <option name="METHOD_NAME" value="maxCoins_1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode_312Test.removeNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetCode.hard.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="leetCode.hard" />
-      <option name="MAIN_CLASS_NAME" value="leetCode.hard.LeetCode_312Test" />
-      <option name="METHOD_NAME" value="removeNum" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PhoneTest.solution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.vivo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.vivo" />
-      <option name="MAIN_CLASS_NAME" value="test.vivo.PhoneTest" />
-      <option name="METHOD_NAME" value="solution" />
+      <option name="MAIN_CLASS_NAME" value="leetCode.easy.LeetCode_7Test" />
+      <option name="METHOD_NAME" value="reverse" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -140,14 +190,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LeetCode_167Test.twoSum" />
-        <item itemvalue="JUnit.LeetCode_312Test.maxCoins_1" />
-        <item itemvalue="JUnit.LeetCode_312Test.maxCoins" />
-        <item itemvalue="JUnit.LeetCode_312Test.removeNum" />
-        <item itemvalue="JUnit.PhoneTest.solution" />
+        <item itemvalue="Application.ProducerConsumer" />
+        <item itemvalue="Application.DictionarySearcher" />
+        <item itemvalue="Application.CombinationProblem" />
+        <item itemvalue="Application.Test103" />
+        <item itemvalue="JUnit.LeetCode_7Test.reverse" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -158,20 +209,92 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595124112264</updated>
+      <workItem from="1598958977393" duration="55000" />
+      <workItem from="1598959062980" duration="1608000" />
+      <workItem from="1617616885076" duration="34000" />
+      <workItem from="1619931533142" duration="2123000" />
+      <workItem from="1621168396841" duration="8000" />
+      <workItem from="1621309260484" duration="1668000" />
+      <workItem from="1621414358685" duration="7200000" />
+      <workItem from="1621471352470" duration="6762000" />
+      <workItem from="1621498811802" duration="12085000" />
+      <workItem from="1621561403586" duration="10600000" />
+      <workItem from="1621658584223" duration="7969000" />
+      <workItem from="1621737425226" duration="1442000" />
+      <workItem from="1621757029922" duration="6602000" />
+      <workItem from="1621817788492" duration="14677000" />
+      <workItem from="1621907382702" duration="13445000" />
+      <workItem from="1621993862825" duration="5142000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1478" y="305" key="#com.intellij.ide.util.MemberChooser" timestamp="1621758996751">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1478" y="305" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1621758996751" />
+    <state x="1447" y="394" key="FileChooserDialogImpl" timestamp="1621851052272">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1447" y="394" key="FileChooserDialogImpl/0.0.3440.1400@0.0.3440.1400" timestamp="1621851052272" />
+    <state width="3387" height="492" key="GridCell.Tab.0.bottom" timestamp="1621995001758">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="492" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1621995001758" />
+    <state width="3387" height="492" key="GridCell.Tab.0.center" timestamp="1621995001758">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="492" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1621995001758" />
+    <state width="3387" height="492" key="GridCell.Tab.0.left" timestamp="1621995001758">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="492" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1621995001758" />
+    <state width="3387" height="492" key="GridCell.Tab.0.right" timestamp="1621995001758">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="492" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1621995001758" />
+    <state width="3387" height="468" key="GridCell.Tab.1.bottom" timestamp="1621949244908">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="468" key="GridCell.Tab.1.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1621949244908" />
+    <state width="3387" height="468" key="GridCell.Tab.1.center" timestamp="1621949244908">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="468" key="GridCell.Tab.1.center/0.0.3440.1400@0.0.3440.1400" timestamp="1621949244908" />
+    <state width="3387" height="468" key="GridCell.Tab.1.left" timestamp="1621949244908">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="468" key="GridCell.Tab.1.left/0.0.3440.1400@0.0.3440.1400" timestamp="1621949244908" />
+    <state width="3387" height="468" key="GridCell.Tab.1.right" timestamp="1621949244908">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state width="3387" height="468" key="GridCell.Tab.1.right/0.0.3440.1400@0.0.3440.1400" timestamp="1621949244908" />
+    <state x="1436" y="445" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1621517555365">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1436" y="445" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.3440.1400@0.0.3440.1400" timestamp="1621517555365" />
+    <state x="1346" y="366" width="748" height="668" key="find.popup" timestamp="1621758129487">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1346" y="366" width="748" height="668" key="find.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1621758129487" />
+    <state x="1299" y="308" width="840" height="1034" key="search.everywhere.popup" timestamp="1621942464235">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1299" y="308" width="840" height="1034" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1621942464235" />
   </component>
 </project>

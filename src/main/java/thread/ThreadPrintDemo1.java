@@ -14,8 +14,9 @@ public class ThreadPrintDemo1 {
         Thread t1 = new Thread(demo2::print1);
         Thread t2 = new Thread(demo2::print2);
 
-        t1.start();
+
         t2.start();
+        t1.start();
     }
 
     public synchronized void print2() {
